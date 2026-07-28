@@ -5,3 +5,5 @@
 <a href = "./vattenkar_trays/README.md">Вставки для полки Ikea Vattenkar </a>
 <br>
 <a href = "./needle_file_holder/README.md">Держатель для надфилей</a>
+<br>
+<a href = "./bts_clip/README.md">Закладка для книг в виде скрепки</a>
