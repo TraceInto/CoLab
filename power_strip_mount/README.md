@@ -7,3 +7,7 @@
 Фото просто на полке, потому что в месте крепления их почти не видно (как и задумывалось по сценарию).
 <br>
 <img src = "./power_strip_mount_1.jpg" width = "500"> <img src = "./power_strip_mount_2.jpg" width = "500">
+<br>
+И фото в местах установки
+<br>
+<img src = "./power_strip_mount_4.jpg" width = "500"> <img src = "./power_strip_mount_3.jpg" width = "500">
