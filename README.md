@@ -8,6 +8,9 @@
 # 28 июня
 <b><a href = "./crocs/README.md">Мини кроксы</a></b><br>
 <br><img src = "./mini_crocs/crocs_4.jpg" width = "500"> 
+<br><br>
+<b><a href = "./thermoformed_sakura_flowers/README.md">Термоформованная коробочка-сакура</a></b><br>
+<br><img src = "./thermoformed_sakura_flowers/sakura_4.jpg" width = "500"> 
 <br>
 
 # 3 и 18 июля
