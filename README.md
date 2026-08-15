@@ -18,8 +18,11 @@
 <br><img src = "./mini_vintage_scooter/scooter_4.jpg" width = "500"> 
 <br>
 
+# 19 июля
+<b><a href = "./power_strip_mount/README.md">Крепление для сетевого фильтра</a></b><br>
+<br><img src = "./power_strip_mount/power_strip_mount_1.jpg" width = "500"> 
+
 --
-<a href = "./power_strip_mount/README.md">Крепление для сетевого фильтра</a>
 <br>
 <a href = "./vattenkar_trays/README.md">Вставки для полки Ikea Vattenkar </a>
 <br>
