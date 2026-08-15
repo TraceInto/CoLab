@@ -26,10 +26,21 @@
 <br><img src = "./moon_lamp/moon_2.jpg" width = "500"> 
 <br>
 
---
+# 25 июля
+<b><a href = "./needle_file_holder/README.md">Держатель для надфилей</a></b><br>
+<br><img src = "./needle_file_holder/needle_file_holder_2.jpg" width = "500"> 
 <br>
-<a href = "./vattenkar_trays/README.md">Вставки для полки Ikea Vattenkar </a>
+
+# 26 июля
+<b><a href = "./vattenkar_trays/README.md">Вставки для полки Ikea Vattenkar</a></b><br>
+<br><img src = "./vattenkar_trays/vattenkar_2.jpg" width = "500"> 
 <br>
-<a href = "./needle_file_holder/README.md">Держатель для надфилей</a>
-<br>
-<a href = "./bts_clip/README.md">Закладка для книг в виде скрепки</a>
+
+# 1 августа
+<b><a href = "./bts_clip/README.md">Закладка для книг в виде скрепки</a></b><br>
+
+# 2 августа
+Поддержка для Sunlu Filament Connector (TODO)
+
+# 2 августа
+Термотрансфер (TODO)
