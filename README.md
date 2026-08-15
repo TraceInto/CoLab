@@ -10,7 +10,7 @@
 <br><img src = "./mini_crocs/crocs_4.jpg" width = "500"> 
 <br>
 
-# 3 июля
+# 3 и 18 июля
 <b><a href = "./mini_vintage_scooter/README.md">Винтажный мини скутер</a></b><br>
 <br><img src = "./mini_vintage_scooter/scooter_4.jpg" width = "500"> 
 <br>
