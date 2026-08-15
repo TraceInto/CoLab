@@ -21,6 +21,10 @@
 # 19 июля
 <b><a href = "./power_strip_mount/README.md">Крепление для сетевого фильтра</a></b><br>
 <br><img src = "./power_strip_mount/power_strip_mount_1.jpg" width = "500"> 
+<br><br>
+<b><a href = "./moon_lamp/README.md">Лунолампа</a></b><br>
+<br><img src = "./moon_lamp/moon_2.jpg" width = "500"> 
+<br>
 
 --
 <br>
