@@ -15,6 +15,9 @@
   <img src = "./vattenkar_tray_x8.jpg" width = "500">
   <br>
 
+Процесс печати
+<br><img src = "./vattenkar_3.jpg" width = "500"> <img src = "./vattenkar_4.jpg" width = "500">
+
 Вот такая красота
 <br>
-<img src = "./vattenkar_2.jpg" width = "500">
+  <img src = "./vattenkar_2.jpg">
