@@ -42,5 +42,6 @@
 # 2 августа
 Поддержка для Sunlu Filament Connector (TODO)
 
-# 2 августа
-Термотрансфер (TODO)
+# 15 и 15 августа
+<b><a href = "./termotransfer/README.md">Термотрансфер</a></b><br>
+<br><img src = "./termotransfer/termotransfer_8.jpg" width = "500"> 
