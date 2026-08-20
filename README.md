@@ -38,10 +38,13 @@
 
 # 1 августа
 <b><a href = "./bts_clip/README.md">Закладка для книг в виде скрепки</a></b><br>
+<b><a href = "./remote_holders/README.md">Держатели для пультов</a></b><br>
+<br><img src = "./remote_holders/remote_holder_1.jpg" width = "500"> 
+<br>
 
 # 2 августа
 Поддержка для Sunlu Filament Connector (TODO)
 
-# 15 и 15 августа
+# 15 и 16 августа
 <b><a href = "./termotransfer/README.md">Термотрансфер</a></b><br>
 <br><img src = "./termotransfer/termotransfer_8.jpg" width = "500"> 
