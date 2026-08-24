@@ -48,3 +48,6 @@
 # 15 и 16 августа
 <b><a href = "./termotransfer/README.md">Термотрансфер</a></b><br>
 <br><img src = "./termotransfer/termotransfer_8.jpg" width = "500"> 
+
+# 21-23 августа
+<b><a href = "./mini_locker/README.md">Мини локер</a></b><br>
