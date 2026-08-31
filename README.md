@@ -62,8 +62,8 @@
 <br><img src = "./mini_locker/locker_2.jpeg" width = "300"> 
 
 # 28 августа
+<b><a href = "./disco_lights/README.md">Мини "цветомузыка"</a></b><br>
 Зеркало Еиналеж (TODO)<br>
-Мини "цветомузыка" (TODO)
 
 # 30 августа
 Мини стол в стиле LEGO (TODO)
