@@ -51,3 +51,4 @@
 
 # 21-23 августа
 <b><a href = "./mini_locker/README.md">Мини локер</a></b><br>
+<br><img src = "./mini_locker/locker_2.jpeg" width = "500"> 
