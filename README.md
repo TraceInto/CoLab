@@ -16,7 +16,7 @@
 # 28 июня
 <table>
   <tr>
-    <td><b><a href = "./crocs/README.md">Мини кроксы</a></b><br>
+    <td><b><a href = "./mini_crocs/README.md">Мини кроксы</a></b><br>
         <br><img src = "./mini_crocs/crocs_4.jpg" width = "300"> </td>
     <td><b><a href = "./thermoformed_sakura_flowers/README.md">Термоформованная коробочка-сакура</a></b><br>
       <br><img src = "./thermoformed_sakura_flowers/sakura_4.jpg" width = "300"> </td>
