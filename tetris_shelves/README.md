@@ -2,4 +2,5 @@
 Ну что-что, а коробочки делать мы теперь умеем, поэтому напечатала новый на 3d принтере.<br>
 <img src = "./tetris_1.jpg" width = "500"><br>
 Старый vs новый.<br>
-<img src = "./tetris_2.jpg" width = "500">
+<img src = "./tetris_2.jpg" width = "500"><br>
+Модельки <a href = "./models">тут</a>
