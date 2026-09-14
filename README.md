@@ -73,4 +73,11 @@
 Зеркало Еиналеж (TODO)<br>
 
 # 30 августа
-Мини стол в стиле LEGO (TODO)
+<table>
+  <tr>
+    <td><b><a href = "./tetris_shelves/README.md">Мини-стеллаж в стите Тетриса</a></b><br>
+      <br><img src = "./tetris_shelves/tetris_1.jpg" width = "300"> </td>
+    <td><b>Мини стол в стиле LEGO (TODO)</b><br></td>
+  </tr>
+</table>
+
