@@ -77,7 +77,7 @@
   <tr>
     <td><b><a href = "./tetris_shelves/README.md">Мини-стеллаж в стите Тетриса</a></b><br>
       <br><img src = "./tetris_shelves/tetris_1.jpg" width = "300"> </td>
-    <td><b>Мини стол в стиле LEGO (TODO)</b><br></td>
+    <td><b><a href = "./lego_mini_furniture/README.md">Мини стол в стиле LEGO</a></b><br>
+      <br><img src = "./lego_mini_furniture/img/10.jpg" width = "300"> </td>
   </tr>
 </table>
-
