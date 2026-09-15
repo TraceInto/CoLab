@@ -4,11 +4,11 @@
 А еще на фото можно увидеть спойлер следующей игровой темы для мини-интерьера)))<br>
 <img src = "./img/01.jpg" width = "500"><br>
 <img src = "./img/02.jpg" width = "500"><br>
+<img src = "./img/09.jpg" width = "500"><br>
 <img src = "./img/03.jpg" width = "500"><br>
 <img src = "./img/04.jpg" width = "500"><br>
 <img src = "./img/05.jpg" width = "500"><br>
 <img src = "./img/06.jpg" width = "500"><br>
 <img src = "./img/07.jpg" width = "500"><br>
 <img src = "./img/08.jpg" width = "500"><br>
-<img src = "./img/09.jpg" width = "500"><br>
 <img src = "./img/10.jpg" width = "500"><br>
